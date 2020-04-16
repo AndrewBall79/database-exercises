@@ -3,6 +3,9 @@
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/albums_migration.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/albums_seeder.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/aliases_exercises.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/functions_exercises.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/group_by_exercises.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/limit_exercises.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/order_by_exercises.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/quotes_migration.sql" dialect="MySQL" />

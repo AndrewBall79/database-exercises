@@ -4,8 +4,8 @@
 
 
 
-UPDATE
-SET sales = sales * 10;
+# UPDATE
+# SET sales = sales * 10;
 
 SELECT name, sales FROM albums;
 

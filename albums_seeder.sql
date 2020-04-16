@@ -1,7 +1,8 @@
 USE codeup_test_db;
 TRUNCATE albums;
 INSERT INTO albums (artist,name,release_date,sales,genre)
-VALUES ('Michael Jackson','Thriller',1982,47.3,'Pop'),    ('AC/DC', 'Back in Black', 1980, 26.1, 'Hard rock'),
+VALUES ('Michael Jackson','Thriller',1982,47.3,'Pop'),
+       ('AC/DC', 'Back in Black', 1980, 26.1, 'Hard rock'),
        ('Pink Floyd', 'The Dark Side of the Moon', 1973, 24.2, 'Progressive rock'),
        ('Meat Loaf', 'Bat Out of Hell', 1977, 21.5, 'Hard rock/Progressive rock'),
        ('Whitney Houston', 'The Bodyguard', 1992, 28.4, 'R&B/Soul/Pop/Soundtrack'),

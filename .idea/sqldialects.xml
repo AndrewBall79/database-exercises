@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/adlister_queries.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/albums_migration.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/albums_seeder.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/aliases_exercises.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/functions_exercises.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/group_by_exercises.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/join_exercises.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/limit_exercises.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/order_by_exercises.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/quotes_migration.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/quotes_seeder.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/select_exercises.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/update_exercises.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/where_exercises.sql" dialect="MySQL" />
